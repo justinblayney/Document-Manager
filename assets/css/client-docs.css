@@ -1,0 +1,101 @@
+.cdm-upload-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+.cdm-upload-label {
+    display: none;
+}
+
+.cdm-upload-input {
+    border: none;
+}
+
+.cdm-upload-button {
+    align-self: flex-start;
+}
+
+@media (min-width: 600px) {
+    .cdm-upload-form {
+        flex-direction: row;
+        align-items: center;
+    }
+
+    .cdm-upload-input {
+        flex: 0 1 auto;
+    }
+}
+
+.file-viewer {
+    display: grid;
+    grid-template-columns: 1fr;
+    margin-bottom: 20px;
+}
+
+.file-viewer div {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+    word-break: break-word;
+    overflow-wrap: break-word;
+}
+
+.file-viewer div:nth-child(3n) {
+    text-align: center;
+    word-break: normal;
+}
+
+@media (min-width: 768px) {
+    .file-viewer {
+        grid-template-columns: 1fr 1fr auto;
+        column-gap: 10px;
+    }
+
+    .file-viewer div:nth-child(3n+2) {
+        text-align: right;
+    }
+}
+
+/* Login form styles */
+.login-username input,
+.login-password input {
+    border-radius: 4px !important;
+    border-color: #d0d0d0 !important;
+}
+
+.login-password input[type="password"] {
+    width: auto !important;
+    max-width: none !important;
+}
+
+.login-submit input[type="submit"] {
+    background-color: #e75f25;
+    border: unset;
+    border-radius: 4px;
+    color: #fff;
+    display: block;
+    font-family: OpenSans, sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 5px 20px;
+    text-align: center;
+    transition: background-color .5s ease-in-out;
+    width: auto;
+}
+
+.login-submit input[type="submit"]:hover {
+    background-color: #481600;
+}
+
+/* Custom login message (for iThemes Security compatibility) */
+.cdm-login-message {
+    padding: 20px;
+    background: #f0f0f1;
+    border-left: 4px solid #2271b1;
+    margin: 20px 0;
+    font-size: 16px;
+    line-height: 1.6;
+}

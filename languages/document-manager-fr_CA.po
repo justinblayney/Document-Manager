@@ -1,0 +1,130 @@
+# Canadian French translation for Client Document Manager
+# Copyright (C) 2025
+# This file is distributed under the same license as the Client Document Manager plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Client Document Manager 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-01 00:00+0000\n"
+"PO-Revision-Date: 2025-01-01 00:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: French (Canada)\n"
+"Language: fr_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "You are logged in."
+msgstr ""
+
+msgid "Log out"
+msgstr ""
+
+msgid "Select a file to upload"
+msgstr ""
+
+msgid "Upload File"
+msgstr ""
+
+msgid "File Name"
+msgstr ""
+
+msgid "Date Added"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete this file?"
+msgstr ""
+
+msgid "Delete %s"
+msgstr ""
+
+msgid "Security check failed for deletion."
+msgstr ""
+
+msgid "File deleted successfully."
+msgstr ""
+
+msgid "File not found or cannot delete."
+msgstr ""
+
+msgid "Security check failed. Please try again."
+msgstr ""
+
+msgid "File uploaded successfully."
+msgstr ""
+
+msgid "Error uploading file."
+msgstr ""
+
+msgid "View Documents"
+msgstr ""
+
+msgid "Client Documents"
+msgstr ""
+
+msgid "Access denied."
+msgstr ""
+
+msgid "No user selected."
+msgstr ""
+
+msgid "User not found."
+msgstr ""
+
+msgid "Documents for %s"
+msgstr ""
+
+msgid "No documents found."
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "File not found."
+msgstr ""
+
+msgid "Client Doc Manager Settings"
+msgstr ""
+
+msgid "Client Doc Manager"
+msgstr ""
+
+msgid "Settings saved."
+msgstr ""
+
+msgid "Client Document Manager Settings"
+msgstr ""
+
+msgid "Upload Folder Path"
+msgstr ""
+
+msgid "Absolute server path. E.g., /var/www/html/client-docs"
+msgstr ""
+
+msgid "Delete Selected"
+msgstr ""
+
+msgid "Delete selected files?"
+msgstr ""
+
+msgid "%d file(s) deleted successfully."
+msgstr ""
+
+msgid "Upload Document for Client"
+msgstr ""
+
+msgid "Uploaded By"
+msgstr ""
+
+msgid "Documents for you"
+msgstr ""
+
+msgid "Your Uploaded Documents"
+msgstr ""
