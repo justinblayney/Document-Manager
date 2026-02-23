@@ -7,8 +7,8 @@ set -e
 
 PLUGIN_SLUG="document-manager"
 PLUGIN_FILE="document-manager.php"
-DIST_DIR="$(dirname "$0")/../dist"
-SRC_DIR="$(dirname "$0")/.."
+DIST_DIR="$(cd "$(dirname "$0")/.." && pwd)/dist"
+SRC_DIR="$(cd "$(dirname "$0")/.." && pwd)"
 
 # Read version from plugin header
 VERSION=$(grep -m1 "Version:" "$SRC_DIR/$PLUGIN_FILE" | awk '{print $NF}')

@@ -49,3 +49,6 @@ wp-config.php
 
 # Claude Code local settings
 .claude/
+
+# Build output
+dist/
