@@ -2,8 +2,8 @@
 
 /**
  * Plugin Name: Darkstar File Manager
- * Plugin URI: https://github.com/justinblayney/Document-Manager
- * Description: Secure client document management system allowing administrators to share files with clients and clients to upload their own documents.
+ * Plugin URI: https://github.com/justinblayney/darkstar-file-manager
+ * Description: Secure file management system allowing administrators to share files with users and users to upload their own documents.
  * Version: 1.0.2
  * Author: Darkstar Media
  * Author URI: https://www.darkstarmedia.net

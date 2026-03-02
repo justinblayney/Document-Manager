@@ -60,7 +60,7 @@ If you prefer, files can also be stored inside the web root (e.g. within `wp-con
 
 ## Installation
 
-1. Download the plugin zip from [Releases](https://github.com/justinblayney/Document-Manager/releases)
+1. Download the plugin zip from [Releases](https://github.com/justinblayney/darkstar-file-manager/releases)
 2. In WordPress admin go to **Plugins → Add New → Upload Plugin**
 3. Upload the zip and click **Install Now**, then **Activate**
 4. Go to **Settings → Darkstar File Manager**
