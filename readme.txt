@@ -1,5 +1,5 @@
 === Darkstar File Manager ===
-Contributors: darkstarmedia, justinblayney
+Contributors: justinblayney
 Tags: client portal, document management, file upload, secure documents, client files
 Requires at least: 5.0
 Tested up to: 6.9
