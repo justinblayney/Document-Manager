@@ -329,6 +329,7 @@ function dsfm_enqueue_assets()
     }
 }
 
+require_once plugin_dir_path(__FILE__) . 'includes/filesystem.php';
 require_once plugin_dir_path(__FILE__) . 'includes/client-functions.php';
 require_once plugin_dir_path(__FILE__) . 'includes/admin-functions.php';
 require_once plugin_dir_path(__FILE__) . 'includes/settings.php';
