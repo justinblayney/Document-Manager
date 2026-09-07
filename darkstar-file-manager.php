@@ -4,13 +4,13 @@
  * Plugin Name: Darkstar File Manager
  * Plugin URI: https://github.com/justinblayney/darkstar-file-manager
  * Description: Secure file management system allowing administrators to share files with users and users to upload their own documents.
- * Version: 1.0.4
+ * Version: 1.0.5
  * Author: Darkstar Media
  * Author URI: https://www.darkstarmedia.net
  * License: GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Requires at least: 5.0
- * Tested up to: 7.0
+ * Tested up to: 7.1
  * Requires PHP: 7.4
  * Text Domain: darkstar-file-manager
  * Domain Path: /languages

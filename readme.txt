@@ -2,9 +2,9 @@
 Contributors: justinblayney
 Tags: client portal, document management, file upload, secure documents, client files
 Requires at least: 5.0
-Tested up to: 7.0
+Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 1.0.4
+Stable tag: 1.0.5
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -144,6 +144,9 @@ Yes. The plugin implements multiple security layers:
 
 == Changelog ==
 
+= 1.0.5 =
+* Updated tested up to WordPress 7.1
+
 = 1.0.4 =
 * Updated tested up to WordPress 7.0
 
@@ -174,6 +177,9 @@ Yes. The plugin implements multiple security layers:
 * Responsive design
 
 == Upgrade Notice ==
+
+= 1.0.5 =
+Tested and confirmed compatible with WordPress 7.1.
 
 = 1.0.4 =
 Tested and confirmed compatible with WordPress 7.0.
