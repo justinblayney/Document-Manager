@@ -34,6 +34,7 @@ rsync -a \
     --exclude='.DS_Store' \
     --exclude='*.zip' \
     --exclude='README.md' \
+    --exclude='CLAUDE.md' \
     --exclude='bin/' \
     --exclude='dist/' \
     "$SRC_DIR/" "$STAGE_DIR/$PLUGIN_SLUG/"
