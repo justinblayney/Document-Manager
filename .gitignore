@@ -50,5 +50,8 @@ wp-config.php
 # Claude Code local settings
 .claude/
 
+# PR review notes (dev-only, not for distribution)
+.github/PR-*-REVIEW.md
+
 # Build output
 dist/
